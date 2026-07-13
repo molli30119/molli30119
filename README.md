@@ -8,6 +8,4 @@
 ![](https://img.shields.io/badge/核心能力-场域空间运营与物管总控-brightgreen?style=for-the-badge&logo=probot&logoColor=white)
 ![](https://img.shields.io/badge/核心能力-大项目操盘%20&%20商业化运营-9cf?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![](https://img.shields.io/badge/核心能力-品牌营销%20&%20全渠道宣发-red?style=for-the-badge&logo=marketingplatform&logoColor=white)
-### 📊 我的 GitHub 动态
 
-![刘彦宏的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=molli30119&show_icons=true&theme=radial)
